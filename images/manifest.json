@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://chinchilla2026.github.io/CAS2026/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Chinchilla2026/CAS2026 project"
+        ]
+    },
+    "items": []
+}
